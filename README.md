@@ -1,2 +1,2 @@
 # Shape-Smashers
-A clicker game where players click on randomly generated shapes within a time limit to earn points.
+A clicker game where players click on randomly generated shapes within a time limit to earn points. Players can click a circle in a frame, and then those circles are removed from the screen. However, the catch is that every second, the circles are randomly generated in new places, so that the player has to click really fast to keep scoring. This program features a ton of features such as a restart button, a scoreboard, and an exit key for the user to press to exit the game.
